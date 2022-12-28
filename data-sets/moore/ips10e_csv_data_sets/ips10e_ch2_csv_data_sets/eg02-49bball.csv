@@ -1,0 +1,9 @@
+Team ,Outcome,Pointers,Count
+A,Made,2,25
+B,Made,2,16
+A,Made,3,3
+B,Made,3,10
+A,Missed,2,25
+B,Missed,2,14
+A,Missed,3,7
+B,Missed,3,20

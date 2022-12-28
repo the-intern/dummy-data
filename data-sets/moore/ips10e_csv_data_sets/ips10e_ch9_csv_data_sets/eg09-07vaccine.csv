@@ -1,0 +1,5 @@
+Party,Required,Count,Expected
+Democratic,No,230,275.9
+Republican,No,258,212.1
+Democratic,Yes,729,683.1
+Republican,Yes,479,524.9

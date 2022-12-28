@@ -1,0 +1,152 @@
+Industry,Ticker1,Ratio,Profit
+TransCommUtilities,Xcel Energy Inc,120.0,479548.533
+TransCommUtilities,Verizon Communications Inc,142.0,479266.409
+TransCommUtilities,United Parcel Service Inc,274.0,133099.119
+TransCommUtilities,Union Pacific Corp,166.0,460778.243
+TransCommUtilities,Sempra Energy,134.0,482820.846
+TransCommUtilities,Public Service Enterprise Group Inc,80.0,548319.815
+TransCommUtilities,PPL Corp,130.0,991245.136
+TransCommUtilities,Oneok Inc /NEW/,53.0,1060685.020
+TransCommUtilities,"Nrg Energy, Inc.",80.0,520707.071
+TransCommUtilities,Nisource Inc/DE,51.0,213284.404
+TransCommUtilities,Nextera Energy Inc,155.0,573357.143
+TransCommUtilities,"Kinder Morgan, Inc.",3.7,858952.005
+TransCommUtilities,Hunt J B Transport Services Inc,15.0,269422.147
+TransCommUtilities,Firstenergy Corp,90.0,383620.414
+TransCommUtilities,Expeditors International Of Washington Inc,154.0,140556.909
+TransCommUtilities,Exelon Corp,127.0,563126.426
+TransCommUtilities,Eversource Energy,127.0,487324.839
+TransCommUtilities,Edison International,62.0,594760.802
+TransCommUtilities,Duke Energy CORP,175.0,449277.357
+TransCommUtilities,Dominion Energy Inc /VA/,109.0,591234.568
+TransCommUtilities,DISH Network CORP,33.0,245412.529
+TransCommUtilities,"Discovery Communications, Inc.",522.0,602428.571
+TransCommUtilities,Consolidated Edison Inc,96.0,391572.061
+TransCommUtilities,Cms Energy Corp,40.9,470196.177
+TransCommUtilities,"Centurylink, Inc",212.0,185352.941
+TransCommUtilities,Cbs Corp,595.0,413700.787
+TransCommUtilities,C H Robinson Worldwide Inc,130.0,157094.998
+TransCommUtilities,At&T Inc.,366.0,413992.063
+TransCommUtilities,American Electric Power Co Inc,102.0,254194.498
+TransCommUtilities,Alliant Energy Corp,54.0,269828.456
+TransCommUtilities,"Alaska Air Group, Inc.",115.5,273521.739
+Manufacturing,Zoetis Inc.,150.0,383913.043
+Manufacturing,"Zimmer Biomet Holdings, Inc.",87.7,312703.297
+Manufacturing,Xylem Inc.,151.0,114259.259
+Manufacturing,Waters Corp /DE/,100.0,194573.000
+Manufacturing,Vertex Pharmaceuticals Inc / MA,81.0,962405.652
+Manufacturing,Valero Energy Corp/TX,117.0,454018.972
+Manufacturing,"Under Armour, Inc.",378.0,141691.329
+Manufacturing,Thermo Fisher Scientific Inc.,324.0,134928.571
+Manufacturing,Texas Instruments Inc,210.0,323551.188
+Manufacturing,Stryker Corp,209.0,247666.667
+Manufacturing,"Stanley Black & Decker, Inc.",357.0,82714.446
+Manufacturing,Smith A O Corp,428.0,76937.888
+Manufacturing,Sealed Air Corp/DE,179.0,94480.000
+Manufacturing,Ppg Industries Inc,382.0,138686.441
+Manufacturing,Phillips 66,138.0,1571575.342
+Manufacturing,Philip Morris International Inc.,325.0,227245.658
+Manufacturing,Pfizer Inc,313.0,457937.916
+Manufacturing,PERRIGO Co plc,127.0,190336.538
+Manufacturing,Perkinelmer Inc,200.0,97548.273
+Manufacturing,PENTAIR plc,264.0,99407.609
+Manufacturing,Packaging Corp Of America,155.0,100835.616
+Manufacturing,Nvidia Corp,88.0,505031.228
+Manufacturing,Newell Brands Inc,477.0,103863.265
+Manufacturing,National Oilwell Varco Inc,239.0,27972.028
+Manufacturing,"Motorola Solutions, Inc.",148.0,201600.000
+Manufacturing,Mosaic Co,94.0,99152.941
+Manufacturing,"Mondelez International, Inc.",403.0,121265.060
+Manufacturing,Molson Coors Brewing Co,119.0,278232.558
+Manufacturing,Mettler Toledo International Inc/,178.0,114008.188
+Manufacturing,"Merck & Co., Inc.",215.0,396333.333
+Manufacturing,Masco Corp /DE/,298.0,100423.077
+Manufacturing,Marathon Petroleum Corp,935.0,202054.795
+Manufacturing,Lilly Eli & Co,118.0,413260.362
+Manufacturing,Leucadia National Corp,489.0,119656.294
+Manufacturing,Kraft Heinz Co,91.0,248794.872
+Manufacturing,Kellogg Co,183.0,152181.818
+Manufacturing,Johnson & Johnson,452.0,381313.433
+Manufacturing,IPG Photonics Corp,68.3,158431.610
+Manufacturing,International Flavors & Fragrances Inc,126.7,202602.877
+Manufacturing,Illumina Inc,86.0,294516.129
+Manufacturing,Illinois Tool Works Inc,420.0,120100.000
+Manufacturing,"Huntington Ingalls Industries, Inc.",60.0,37447.368
+Manufacturing,Honeywell International Inc,333.0,98923.664
+Manufacturing,Hershey Co,376.0,224252.539
+Manufacturing,Hasbro Inc,160.0,588164.630
+Manufacturing,Goodyear Tire & Rubber Co /OH/,206.0,57156.250
+Manufacturing,Gilead Sciences Inc,94.0,2173600.000
+Manufacturing,Fortive Corp,211.8,126865.385
+Manufacturing,Flowserve Corp,122.0,63845.706
+Manufacturing,Flir Systems Inc,142.0,242455.110
+Manufacturing,Edwards Lifesciences Corp,215.0,209836.066
+Manufacturing,Ecolab Inc.,238.0,132917.355
+Manufacturing,Eaton Corp plc,59.0,69250.000
+Manufacturing,DowDuPont Inc.,175.0,123163.265
+Manufacturing,DOVER Corp,237.0,99668.172
+Manufacturing,DENTSPLY SIRONA Inc.,151.0,135931.677
+Manufacturing,Corning Inc /NY,356.0,87272.727
+Manufacturing,Conocophillips,95.0,1376578.947
+Manufacturing,Colgate Palmolive Co,641.0,258495.822
+Manufacturing,Coca Cola Co,230.0,358478.964
+Manufacturing,Church & Dwight Co Inc /DE/,97.8,368000.000
+Manufacturing,Chevron Corp,180.0,1118400.771
+Manufacturing,Bristol Myers Squibb Co,169.0,620675.105
+Manufacturing,Boston Scientific Corp,205.0,222586.207
+Manufacturing,Borgwarner Inc,247.0,73106.897
+Manufacturing,Boeing Co,166.0,123053.977
+Manufacturing,BALL Corp,157.0,123825.137
+Manufacturing,Arconic Inc.,96.0,49445.783
+Manufacturing,Amphenol Corp /DE/,670.0,32941.429
+Manufacturing,Ametek Inc/,144.0,85724.201
+Manufacturing,"Altria Group, Inc.",114.0,1433833.233
+Manufacturing,Allergan plc,349.0,773747.191
+Manufacturing,Align Technology Inc,920.0,128163.741
+Manufacturing,Alexion Pharmaceuticals Inc,93.0,1226495.050
+Manufacturing,Albemarle Corp,114.0,205551.852
+Manufacturing,Advanced Micro Devices Inc,121.0,204831.461
+Manufacturing,AbbVie Inc.,144.0,730206.897
+Manufacturing,3M Co,324.0,171036.532
+FinanceInsuranceRealEstate,Willis Towers Watson Plc,65.0,188986.175
+FinanceInsuranceRealEstate,Weyerhaeuser Co,151.0,204086.022
+FinanceInsuranceRealEstate,Ventas Inc,285.0,4234657.201
+FinanceInsuranceRealEstate,Torchmark Corp,104.0,463344.616
+FinanceInsuranceRealEstate,Synchrony Financial,298.0,625500.000
+FinanceInsuranceRealEstate,Svb Financial Group,46.0,773296.144
+FinanceInsuranceRealEstate,Suntrust Banks Inc,159.0,360647.467
+FinanceInsuranceRealEstate,Schwab Charles Corp,146.0,489659.091
+FinanceInsuranceRealEstate,Sba Communications Corp,130.0,992534.469
+FinanceInsuranceRealEstate,Regions Financial Corp,202.0,253062.540
+FinanceInsuranceRealEstate,Regency Centers Corp,59.0,33239.910
+FinanceInsuranceRealEstate,Realty Income Corp,88.0,7901427.632
+FinanceInsuranceRealEstate,Public Storage,439.0,350098.214
+FinanceInsuranceRealEstate,Progressive Corp/OH/,136.0,238620.157
+FinanceInsuranceRealEstate,Principal Financial Group Inc,119.0,407764.339
+FinanceInsuranceRealEstate,"Pnc Financial Services Group, Inc.",201.0,308641.742
+FinanceInsuranceRealEstate,"Nasdaq, Inc.",132.0,512885.509
+FinanceInsuranceRealEstate,Loews Corp,84.0,421160.221
+FinanceInsuranceRealEstate,Lincoln National Corp,219.0,719243.948
+FinanceInsuranceRealEstate,Keycorp /NEW/,118.0,327233.234
+FinanceInsuranceRealEstate,Humana Inc,344.0,223769.063
+FinanceInsuranceRealEstate,"Hcp, Inc.",40.0,6221721.053
+FinanceInsuranceRealEstate,Hartford Financial Services Group Inc/DE,143.0,414634.146
+FinanceInsuranceRealEstate,Gallagher Arthur J & Co,126.0,168794.776
+FinanceInsuranceRealEstate,Federal Realty Investment Trust,89.0,1879803.859
+FinanceInsuranceRealEstate,Extra Space Storage Inc.,122.0,246460.059
+FinanceInsuranceRealEstate,Essex Property Trust Inc,77.0,522265.395
+FinanceInsuranceRealEstate,E Trade Financial Corp,62.0,657222.222
+FinanceInsuranceRealEstate,"Digital Realty Trust, Inc.",76.0,1068471.448
+FinanceInsuranceRealEstate,Crown Castle International Corp,87.0,620423.111
+FinanceInsuranceRealEstate,Citizens Financial Group Inc/RI,155.0,306022.727
+FinanceInsuranceRealEstate,Cigna Corp,279.0,299000.000
+FinanceInsuranceRealEstate,Chubb Ltd,301.4,444806.452
+FinanceInsuranceRealEstate,"Cbre Group, Inc.",150.0,53954.775
+FinanceInsuranceRealEstate,"Cboe Global Markets, Inc.",70.0,1119910.011
+FinanceInsuranceRealEstate,Bb&T Corp,150.0,290812.411
+FinanceInsuranceRealEstate,Avalonbay Communities Inc,131.0,529701.799
+FinanceInsuranceRealEstate,"Anthem, Inc.",262.0,317914.286
+FinanceInsuranceRealEstate,Ameriprise Financial Inc,223.0,925153.846
+FinanceInsuranceRealEstate,Allstate Corp,230.0,329298.163
+FinanceInsuranceRealEstate,Aflac Inc,300.0,838133.946
+FinanceInsuranceRealEstate,Aetna Inc /PA/,235.0,331741.397
